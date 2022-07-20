@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  width: 70%;
+  vertical-align: middle;
+  text-align: center;
+  color: aquamarine;
+}
+th,
+td {
+  border: 1px black solid;
+  text-align: center;
+  vertical-align: middle;
+  color: blue;
+}
+th {
+  background-color: rgb(227, 169, 22);
+}
+table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 3rem;
+  padding: 1rem;
+}
